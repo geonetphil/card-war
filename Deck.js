@@ -1,5 +1,5 @@
 export default class Deck {
-    constructor(cards) {
-        this.cards = cards
+    constructor(foo) {
+        this.cards = foo
     }
 }
